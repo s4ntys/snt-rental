@@ -6,7 +6,7 @@ Just a rental car... you can use it however you want :)
  If you want to change cars you do it in config.lua
 
 
-##Dependencies :
+## Dependencies :
 
 QBCore Framework - https://github.com/qbcore-framework/qb-core
 
